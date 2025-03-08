@@ -3,7 +3,7 @@
 👋 Hi, I'm **Dhanush Babu Ramadoss**  
 💻 **Software Engineer | Full Stack Developer**  
 🚀 Passionate about building scalable applications and AI/ML integrations.  
-🎓 Bachelor's in Computer Science  
+🎓 Master's in Computer Science at University at Buffalo
 🌎 Based in the United States  
 
 ## 🌐 Socials:
@@ -49,4 +49,4 @@
 
 ![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH1323&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=10&layout=compact&theme=dark)
