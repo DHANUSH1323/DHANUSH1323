@@ -47,6 +47,6 @@
 ---
 ## 📊 GitHub Stats
 
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark)
+![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=10&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=10&layout=compact&theme=dark&hide=jupyter%20notebook&exclude_repo=repo1,repo2&count_private=true)
