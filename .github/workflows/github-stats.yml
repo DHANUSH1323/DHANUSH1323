@@ -7,6 +7,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -18,8 +20,10 @@ jobs:
 
       - name: Commit & Push generated file
         run: |
-          git config --global user.name "Dhanush"
-          git config --global user.email "your_verified_github_email@example.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-stats.svg
-          git commit -m "Update GitHub Stats" || echo "No changes"
+          git commit -m "Update GitHub Stats" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
