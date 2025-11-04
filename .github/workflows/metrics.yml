@@ -1,4 +1,4 @@
-name: 🧮 Minimal GitHub Metrics
+name: GitHub Metrics
 
 on:
   schedule:
