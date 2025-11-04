@@ -1,5 +1,5 @@
 ## 🚀 About Me
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&width=700&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full+Stack+Developer;%F0%9F%9A%80+Passionate+about+building+scalable+applications+and+AI%2FML+integrations.;%F0%9F%8E%93+Master's+in+Computer+Science+at+University+at+Buffalo;%F0%9F%8C%8E+Based+in+the+United+States" alt="Typing SVG" />
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&width=600&lines=Hi%2C+I'm+Dhanush+Babu+Ramadoss" alt="Typing SVG" />
 
 <br clear="left"/>
 
