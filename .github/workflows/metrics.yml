@@ -1,8 +1,8 @@
-name: Generate GitHub Metrics
+name: 🧮 Minimal GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,26 +15,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build metrics panel
+      - name: Generate minimal GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-        
           token: ${{ secrets.GH_TOKEN }}
-
-          
           user: DHANUSH1323
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
 
-          
+          # Output setup
           filename: github-metrics.svg
           output_action: commit
 
-          
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_colors: github
+          # Timezone
+          config_timezone: America/New_York
+
+          # Minimal template
+          template: classic
+          base: ""
+          config_display: large
+
+          # Plugins
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
+          plugin_streak: yes
+          plugin_streak_display: yes
+          plugin_streak_days: 365
+          plugin_streak_full_year: yes
+          plugin_streak_sections: current, longest
