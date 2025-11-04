@@ -1,0 +1,25 @@
+name: Update GitHub Stats Card
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Dhanush's%20GitHub%20Stats&token=${{ secrets.GH_TOKEN }}&cache_seconds=1000"
+
+      - name: Commit & Push generated file
+        run: |
+          git config --global user.name "Dhanush"
+          git config --global user.email "your_verified_github_email@example.com"
+          git add github-stats.svg
+          git commit -m "Update GitHub Stats" || echo "No changes"
+          git push
