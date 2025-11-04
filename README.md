@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&vCenter=true&width=600&lines=Hi%2C+I'm+Dhanush+Babu+Ramadoss;Full+Stack+Developer;AI%2FML+Engineer;Software+Engineer+%7C+Innovator" alt="Typing SVG" />
-</p>
-
 ## 🚀 About Me
+
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&width=600&lines=Hi%2C+I'm+Dhanush+Babu+Ramadoss;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI%2FML+Applications" alt="Typing SVG" />
+
+<br clear="left"/>
 
 💻 **Software Engineer | Full Stack Developer**  
 🚀 Passionate about building scalable applications and AI/ML integrations.  
