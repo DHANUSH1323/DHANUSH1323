@@ -50,6 +50,6 @@
 ## 📊 GitHub Stats
 
 ![Dhanush's GitHub Stats](./github-stats.svg)
-![GitHub Metrics](./github-metrics.svg)
+![GitHub Streaks](./github-metrics.svg)
 
 ![Top Languages](https://githubstats123.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook&count_private=true&exclude_repo=repo1,repo2)
