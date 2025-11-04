@@ -47,6 +47,6 @@
 ---
 ## 📊 GitHub Stats
 
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Dhanush's%20GitHub%20Stats&cache_seconds=1000)
+![Dhanush's GitHub Stats](./github-stats.svg)
 
 ![Top Languages](https://githubstats123.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook&count_private=true&exclude_repo=repo1,repo2)
