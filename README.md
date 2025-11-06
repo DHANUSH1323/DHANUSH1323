@@ -1,21 +1,21 @@
-## 🚀 About Me
+## About Me
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&width=600&lines=Hi%2C+I'm+Dhanush+Babu+Ramadoss" alt="Typing SVG" />
 
 <br clear="left"/>
 
-💻 **Software Engineer | Full Stack Developer**  
-🚀 Passionate about building scalable applications and AI/ML integrations.  
-🎓 Master's in Computer Science at University at Buffalo  
-🌎 Based in the United States  
+**Software Engineer | Full Stack Developer**  
+Passionate about building scalable applications and AI/ML integrations.  
+Master's in Computer Science at University at Buffalo  
+Based in the United States  
 
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-babu-a23426130/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSH1323)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanushbaburamadoss.netlify.app)
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -47,7 +47,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
