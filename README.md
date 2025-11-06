@@ -49,7 +49,7 @@ Based in the United States
 ---
 ## GitHub Stats
 
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSH1323&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=2)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DHANUSH1323&theme=dark&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&background=0D1117&stroke=000000&sideLabels=FFFFFF&dates=FFFFFF)
 
