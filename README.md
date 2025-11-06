@@ -54,4 +54,4 @@ Based in the United States
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DHANUSH1323&theme=dark&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&background=0D1117&stroke=000000&sideLabels=FFFFFF&dates=FFFFFF)
 
 
-![Top Languages](https://githubstats123.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook&count_private=true&exclude_repo=repo1,repo2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH1323&langs_count=8&layout=compact&theme=tokyonight&count_private=true)
