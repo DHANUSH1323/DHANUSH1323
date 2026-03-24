@@ -3,7 +3,7 @@
 
 <br clear="left"/>
 
-**Software Engineer | Full Stack Developer**  
+**Software / AI Engineer | Agent Developer**  
 Passionate about building scalable applications and AI/ML integrations.  
 Master's in Computer Science at University at Buffalo  
 Based in the United States  
